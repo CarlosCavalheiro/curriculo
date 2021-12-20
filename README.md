@@ -1,53 +1,106 @@
 # Carlos Alexandre Cavalheiro (Curriculo)
 
-Local: Maceió - Alagoas | Idade: 25 anos
+Local: Lençóis Pauista - São Paulo | Idade: 40 anos
 
-Sou desenvolvedor web a mais de 8 anos, Apple maníaco e trabalho sempre escutando uma boa música. Gosto muito do que faço e não me vejo fazendo outra coisa que não esteja relacionado com a internet. Nas horas vagas gosto de navegar na internet para me manter atualizado nas novas tecnologias e tendências. Sou programador mas trabalho um pouco com design e "user experience".
+## Quem sou?
+•	Atualmente trabalho como professor/instrutor de informártica básica e avançada, e também sou sócio proprietário de uma empresa de desenvolvimento de aplicações para internet;
+•	Gosto muito de me manter informado e me considero ter facil comunicação e adaptação a situações desafiadores. Tenho facilidade no trabalho em equipe, sou casado e tenho dois filhos, minha esposa e familia são o combustivel que me fazem querer ser e sempre fazer o meu melhor;
 
-Atualmente trabalho na Rede social Edufindme e em minha empresa Sook
+## Contato
+whatsApp: +55 (14) 98834-0554
+linkdean: https://linkedin.com/in/carlos-cavalheiro-6b490227/
+github: https://github.com/carlosNineBit
 
-blog: http://www.danillocesar.com.br
-twitter: @danillo
-github: https://github.com/danillos e https://github.com/sook
-forrst: http://forrst.me/danillos/
+## SÍNTESE DE QUALIFICAÇÕES
+•	Amplo conhecimento em informática, Administração de redes, Sistemas operacionais Windows/Linux, Pacote Microsoft Office, Softwares Gráficos, Programação e Desenvolvimento Web/Mobile;
+•	Sócio proprietário da empresa Ninebit (www.ninebit.com.br), desenvolvimento de soluções web/mobile, aplicação e atuação Front End e Back End;
+•	20 Anos de experiência ministrando cursos livres de informática;
+•	3 Anos de Técnico de Suporte e Administração de Redes;
+•	3 Ano Ministrando aulas de Matemática e Física, no ensino médio;
+•	3 Anos Controle Almoxarife e controles administrativos e recursos humanos. 
 
-Conhecimentos
-PHP (7 anos)
-Ruby (7 anos)
-Javascript (3 anos)
-HTML/CSS
-Sistemas de controle de versão (git, svn)
-Testes automatizados (bdd, tdd)
-Desenvolvimento Ágil
-Segurança e performance web
-Inglês
-Projetos
-Open Sources
-Drumon Framework (php) (link)
+## DESCRIÇÃO DE GESTÃO PROFISSIONAL
+Com experiência de atuação na área de informática possuo conhecimentos e qualificações: no gerenciamento e implementação de soluções em TI e docência, desenvolvimento tanto para Internet na criação de Web Sites dinâmicos e interativos, como também na área gráfica no desenvolvimento de material publicitário, e além de atuação prática na área de Hardware, executando montagem, detecção de falhas, instalação e configuração de Sistemas Operacionais.
+Conhecimentos em Windows 9x, ME, 2000, XP, Vista, 7,10 e Softwares;
 
-Framework em PHP para desenvolvimento rápido de aplicações web.
+## DESCRIÇÃO DE ATUAÇÃO
+•	Experiência como docente Ministrado Treinamento de Aperfeiçoamento profissional para os cursos: Informática Básica, Web designer, Design Gráfico, Manutenção de Computadores, Excel Completo, Excel Avançado, Excel com ênfase em VBA, Dashboard em Excel, Gerenciamento de Projetos com MS Project;
+•	Experiência como docente no curso Técnico Desenvolvimento para Internet (Full Stack);
+•	Administração de redes de computadores Windows Server (Administração de usuários, Active Director, Perfil, Acessos Web, IIS, etc...) e Linux (Distibuições como: Mandriva, RedHat, Debian, Slackware, configurando e administrando níveis de compartilhamento, NFS, Squid, WebMail, DNS, DHCP, Firewall, Samba, Wine, entre outros).
+•	Conhecimentos e aplicação no desenvolvimento web e mobile, conhecimentos em: Html, Css, Javascript, JAVA, C#.net, Xamarin.Forms, MySQL, NodeJs e Angular;
 
-Fire Event (php) (link)
+## PARTICIPAÇÃO EM PROJETOS
+•	SDE – SISTEMA DE DIÁRIO ELETRÔNICO (SENAI LENÇÓIS PAULISTA)
+o	Aplicação desenvolvida em C#.net, HTML, CSS, JAVASCRIPT, FRAMEWORK BOOTSTRAP e MYSQL;
+o	Função: Cadastro de Turmas, Alunos, Docentes, Frequência Escolas, Desempenho/Notas, relatórios em PDF;
 
-Event Dispatcher Class em PHP, criado para ser usado no Drumon Framework e foi utilizado pelo anandkunal em seu framework ToroPHP
+•	QForms – Aplicação de criação de Checklist web e mobile
+o	Aplicação desenvolvida em C#.net, HTML, CSS, JAVASCRIPT, BOOTSTRAT, MYSQL e XAMARIN.FORMS (Android e iOS);
+o	Atuação no FrontEnd, UX/UI e Back End da aplicação Mobile e Gerenciamento Web;
 
-TinyAlert (js, mootools) (link)
+•	UBOMBAS – Aplicação de locação de Bombas de Concreto por oferta;
+o	Aplicação desenvolvida em c#.net, HTML, CSS, JAVASCRIPT, BOOTSTRAT, MYSQL, XAMARIN.FORMS (Android e iOS);
+o	Atuação no FrontEnd, UX/UI e Back End da aplicação Mobile e Site;
+•	LOJA SILVA – Aplicação de integração cliente loja física e e-commerce;
+o	Aplicação desenvolvida em c#.net, HTML, CSS, JAVASCRIPT, BOOTSTRAT, MYSQL, XAMARIN.FORMS (Android e iOS);
+o	Atuação no FrontEnd, UX/UI e Back End da aplicação Mobile;
+•	ACILPA – Aplicação destinada a divulgação e controle de campanhas junto ao comércio;
+o	Aplicação desenvolvida em c#.net, HTML, CSS, JAVASCRIPT, BOOTSTRAT, MYSQL, XAMARIN.FORMS (Android e iOS);
+o	Atuação no FrontEnd, UX/UI e Back End da aplicação Web e Mobile;
 
-Simples e leve sistema de alerta
+## FORMAÇÃO
+ PÓS-GRADUAÇÃO - ENGENHARIA DE SOFTWARE PARA DISPOSITIVOS MÓVEIS
+UNINTER – Concluído em Out/2021
 
-Tiny Next Select (js, mootools) (link)
+ Engenharia da Computação
+UNIVESP – Universidade Virtual do Estado de São Paulo
+Campus de Jau – Incompleto Jan/2019
 
-Framework em PHP para desenvolvimento rápido de aplicações web.
+ Licenciatura em Física
+UNESP – Universidade do Estadual Paulista “Júlio de Mesquita Filho”
+Campus de Bauru – Concluído Dez/2011
 
-Outros no github (link)
+ Técnico em Informática
+SENAC – Serviço Nacional do Comercio
+Unidade de Santana - Concluído Ago/2003
 
-Proprietários
-Sook CMS (Ruby on Rails) (screenshot)
+## CURSOS/TREINAMENTOS
+ JAVA Fundations
+Oracle Academy – Mai/2021
 
-Gerenciador de conteúdo escrito em Ruby on Rails que acessa remotamente o banco de dados do cliente.
+ Formação AWS Education
+AWS Education – Mar/2021
 
-Outros
-Ganhei o Prêmio Imaster Intercon 2005 na categoria Web Standards
-Formação
-Graduado em Sistemas de Informação pela (FAL)
-Pós em Tecnologias Web para negócios (FEJAL)
+ Google Cloud Computing Foundations: Cloud Computing Fundamentals
+Google Cloud – Out/2021
+
+ Google Essentials
+Google Cloud – Out/2021
+
+ Fundamentação da Prática Docente
+UNIINDUSTRIA – Abr/2020
+
+ LGPD – Lei Geral de Proteção de Dados
+UNIINDUSTRIA – Abr/2020
+
+ LGPD – Lei Geral de Proteção de Dados
+UNIINDUSTRIA – Abr/2020
+
+ TIC'S - Tecnologias 
+da Informação e Comunicação Aplicadas à Educação Profissional e Tecnológica
+UNIINDUSTRIA – Mar/2020
+
+ Informática para Internet - Desenvolvimento Web 
+UNIINDUSTRIA – Ago/2019
+
+## HISTÓRICO PROFISSIONAL
+SENAI – Unidade de Lençóis Paulista/SP
+-    Período de 06/2014 – atual
+-   Cargo: Instrutor de Práticas de Ensino (TI) nível II
+-   Atuação: Cursos de Formação Inicial Continuada e Técnico Profissional
+
+NINEBIT – Lençóis Paulista/SP
+-    Período de 01/2015 – atual
+-   Cargo: Sócio Proprietário
+-   Atuação: Desenvolvedor Front End e Back End, Web e Mobile
+-   

@@ -7,9 +7,9 @@ Local: Lençóis Pauista - São Paulo | Idade: 40 anos
 -	Gosto muito de me manter informado e me considero ter facil comunicação e adaptação a situações desafiadores. Tenho facilidade no trabalho em equipe, sou casado e tenho dois filhos, minha esposa e familia são o combustivel que me fazem querer ser e sempre fazer o meu melhor;
 
 ## Contato
-whatsApp: +55 (14) 98834-0554
-linkdean: https://linkedin.com/in/carlos-cavalheiro-6b490227/
-github: https://github.com/carlosNineBit
+- whatsApp: +55 (14) 98834-0554
+- linkdean: https://linkedin.com/in/carlos-cavalheiro-6b490227/
+- github: https://github.com/carlosNineBit
 
 ## SÍNTESE DE QUALIFICAÇÕES
 -	Amplo conhecimento em informática, Administração de redes, Sistemas operacionais Windows/Linux, Pacote Microsoft Office, Softwares Gráficos, Programação e Desenvolvimento Web/Mobile;

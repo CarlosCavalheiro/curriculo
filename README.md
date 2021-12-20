@@ -24,11 +24,10 @@ Local: Lençóis Pauista - São Paulo | Idade: 40 anos
 -	Conhecimentos e aplicação no desenvolvimento web e mobile, conhecimentos em: Html, Css, Javascript, Bootstrap, JAVA, C#.net, Xamarin.Forms, MySQL, NodeJs e Angular;
 
 ## PARTICIPAÇÃO EM PROJETOS
-- SDE – SISTEMA DE DIÁRIO ELETRÔNICO (SENAI LENÇÓIS PAULISTA)
+- SDE – SISTEMA DE DIÁRIO ELETRÔNICO (SENAI LENÇÓIS PAULISTA) [(LINK)](https://github.com/carlosNineBit/sde_fic)
 
   - Aplicação desenvolvida em C#.net, HTML, CSS, JAVASCRIPT, FRAMEWORK BOOTSTRAP e MYSQL;
-- Função: Cadastro de Turmas, Alunos, Docentes, Frequência Escolas, Desempenho/Notas, relatórios em PDF;
-  - [LINK DO PROJETO](./images/README_SDE.md)
+  - Função: Cadastro de Turmas, Alunos, Docentes, Frequência Escolas, Desempenho/Notas, relatórios em PDF;
 
 - QForms – Aplicação de criação de Checklist web e mobile
 

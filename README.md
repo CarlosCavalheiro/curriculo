@@ -6,7 +6,8 @@ Local: Lençóis Pauista - São Paulo | Idade: 40 anos
 
 ## Quem sou?
 -	Atualmente trabalho como professor/instrutor de informártica básica e avançada, e também sou sócio proprietário de uma empresa de desenvolvimento de aplicações para internet;
--	Gosto muito de me manter informado e me considero ter facil comunicação e adaptação a situações desafiadores. Tenho facilidade no trabalho em equipe, sou casado e tenho dois filhos, minha esposa e familia são o combustivel que me fazem querer ser e sempre fazer o meu melhor;
+-	Gostei muito de aprender e me considero ter facil comunicação e trabalho bem com situações de articulação entre stakeholders e que são desafiadores. Tenho facilidade no trabalho em equipe;
+-	Sou casado e tenho dois filhos (Júlia e Guilherme), amo estar presente com minha esposa e meus filhos;
 
 ## Contato
 - whatsApp: +55 (14) 98834-0554
@@ -25,45 +26,38 @@ Local: Lençóis Pauista - São Paulo | Idade: 40 anos
 
 ## PARTICIPAÇÃO EM PROJETOS
 - SDE – SISTEMA DE DIÁRIO ELETRÔNICO (SENAI LENÇÓIS PAULISTA) [(LINK)](https://github.com/carlosNineBit/sde_fic)
-
-  - Aplicação desenvolvida em C#.net, HTML, CSS, JAVASCRIPT, FRAMEWORK BOOTSTRAP e MYSQL;
+  - Aplicação Web desenvolvida em: C#.net, HTML, CSS, JAVASCRIPT, FRAMEWORK BOOTSTRAP e MYSQL;
   - Função: Cadastro de Turmas, Alunos, Docentes, Frequência Escolas, Desempenho/Notas, relatórios em PDF;
 
-- QForms – Aplicação de criação de Checklist web e mobile
-
-  - Aplicação desenvolvida em C#.net, HTML, CSS, JAVASCRIPT, BOOTSTRAT, MYSQL e XAMARIN.FORMS (Android e iOS);
+- QForms – Aplicação de criação de formulário do tipo Checklist web e mobile, com funcionalidades offline e sincronização.
+  - Aplicação Web e Mobile desenvolvida em: C#.net, HTML, CSS, JAVASCRIPT, BOOTSTRAT, MYSQL e XAMARIN.FORMS (Android e iOS);
   - Atuação no FrontEnd, UX/UI e Back End da aplicação Mobile e Gerenciamento Web;
+  - Startup DOQR;
 
 - UBOMBAS – Aplicação de locação de Bombas de Concreto por oferta;
-
-  -	Aplicação desenvolvida em c#.net, HTML, CSS, JAVASCRIPT, BOOTSTRAT, MYSQL, XAMARIN.FORMS (Android e iOS);
+  -	Aplicação Web, Mobile e Site Institucional, desenvolvida em: C#.net, HTML, CSS, JAVASCRIPT, BOOTSTRAT, MYSQL, XAMARIN.FORMS (Android e iOS);
   -	Atuação no FrontEnd, UX/UI e Back End da aplicação Mobile e Site;
 
 - LOJA SILVA – Aplicação de integração cliente loja física e e-commerce;
+  -	Aplicação Mobile desenvolvida em: C#.net, HTML, CSS, JAVASCRIPT, BOOTSTRAT, MYSQL, XAMARIN.FORMS (Android e iOS);
+  -	Atuação no FrontEnd, UX/UI da aplicação Mobile;
 
-  -	Aplicação desenvolvida em c#.net, HTML, CSS, JAVASCRIPT, BOOTSTRAT, MYSQL, XAMARIN.FORMS (Android e iOS);
-  -	Atuação no FrontEnd, UX/UI e Back End da aplicação Mobile;
-
-- ACILPA – Aplicação destinada a divulgação e controle de campanhas junto ao comércio;
-
-  -	Aplicação desenvolvida em c#.net, HTML, CSS, JAVASCRIPT, BOOTSTRAT, MYSQL, XAMARIN.FORMS (Android e iOS);
+- ACILPA - Associação Comercial e Industrial de Lençóis Paulista – Aplicação destinada a divulgação e controle de campanhas junto ao comércio;
+  -	Aplicação Web e Mobile, desenvolvida em: C#.net, HTML, CSS, JAVASCRIPT, BOOTSTRAT, MYSQL, XAMARIN.FORMS (Android e iOS);
   -	Atuação no FrontEnd, UX/UI e Back End da aplicação Web e Mobile;
 
 ## FORMAÇÃO
 - PÓS-GRADUAÇÃO - ENGENHARIA DE SOFTWARE PARA DISPOSITIVOS MÓVEIS
-UNINTER – Concluído em Out/2021
+  - UNINTER – Concluído em Out/2021
 
 - Engenharia da Computação
-UNIVESP – Universidade Virtual do Estado de São Paulo
-Campus de Jau – Incompleto Jan/2019
+  - UNIVESP – Universidade Virtual do Estado de São Paulo - Campus de Jau – Incompleto Jan/2019
 
 - Licenciatura em Física
-UNESP – Universidade do Estadual Paulista “Júlio de Mesquita Filho”
-Campus de Bauru – Concluído Dez/2011
+  - UNESP – Universidade do Estadual Paulista “Júlio de Mesquita Filho” - Campus de Bauru – Concluído Dez/2011
 
 - Técnico em Informática
-SENAC – Serviço Nacional do Comercio
-Unidade de Santana - Concluído Ago/2003
+  - SENAC – Serviço Nacional do Comercio - Unidade de Santana - Concluído Ago/2003
 
 ## CURSOS/TREINAMENTOS
 - JAVA Fundations -Oracle Academy – Mai/2021

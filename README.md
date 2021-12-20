@@ -2,7 +2,7 @@
 
 <p style="text-align:left;"><img src="./images/img_eu.jpg" style="zoom:60%;" /></p>
 
-Local: Lençóis Pauista - São Paulo | Idade: 40 anos
+Lençóis Paulista - São Paulo | Idade: 40 anos
 
 ## Quem sou?
 -	Atualmente trabalho como professor/instrutor de informártica básica e avançada, e também sou sócio proprietário de uma empresa de desenvolvimento de aplicações para internet;

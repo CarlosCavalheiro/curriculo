@@ -1,6 +1,6 @@
 # Carlos Alexandre Cavalheiro (Currículo)
 
-<p style="text-align:left;"><img src="A:\Desenvolvimento\curriculo\images\img_eu.jpg" style="zoom:60%;" /></p>
+<p style="text-align:left;"><img src="./images/img_eu.jpg" style="zoom:60%;" /></p>
 
 Local: Lençóis Pauista - São Paulo | Idade: 40 anos
 

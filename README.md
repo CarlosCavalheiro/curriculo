@@ -27,8 +27,8 @@ Local: Lençóis Pauista - São Paulo | Idade: 40 anos
 
 ## PARTICIPAÇÃO EM PROJETOS
 -	SDE – SISTEMA DE DIÁRIO ELETRÔNICO (SENAI LENÇÓIS PAULISTA)
-o	Aplicação desenvolvida em C#.net, HTML, CSS, JAVASCRIPT, FRAMEWORK BOOTSTRAP e MYSQL;
-o	Função: Cadastro de Turmas, Alunos, Docentes, Frequência Escolas, Desempenho/Notas, relatórios em PDF;
+  - Aplicação desenvolvida em C#.net, HTML, CSS, JAVASCRIPT, FRAMEWORK BOOTSTRAP e MYSQL;
+  - Função: Cadastro de Turmas, Alunos, Docentes, Frequência Escolas, Desempenho/Notas, relatórios em PDF;
 
 -	QForms – Aplicação de criação de Checklist web e mobile
 o	Aplicação desenvolvida em C#.net, HTML, CSS, JAVASCRIPT, BOOTSTRAT, MYSQL e XAMARIN.FORMS (Android e iOS);

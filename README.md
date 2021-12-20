@@ -95,3 +95,6 @@ Atuação: Cursos de Formação Inicial Continuada e Técnico Profissional
 Período de 01/2015 – atual
 Cargo: Sócio Proprietário
 Atuação: Desenvolvedor Front End e Back End, Web e Mobile
+
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="carlos-alexandre-cavalheiro-6b490227" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/carlos-alexandre-cavalheiro-6b490227?trk=profile-badge">Carlos Alexandre Cavalheiro</a></div>
+              

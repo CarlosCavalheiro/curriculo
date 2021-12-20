@@ -15,7 +15,7 @@ Local: Lençóis Pauista - São Paulo | Idade: 40 anos
 
 ## SÍNTESE DE QUALIFICAÇÕES
 -	Amplo conhecimento em informática, Administração de redes, Sistemas operacionais Windows/Linux, Pacote Microsoft Office, Softwares Gráficos, Programação e Desenvolvimento Web/Mobile (C#.net e Xamarin Forms);
--	Sócio proprietário da empresa Ninebit (www.ninebit.com.br)  soluções web/mobile, atuando como gerente de projetos, UX e desenvolvimento;
+-	Sócio proprietário da empresa Ninebit (www.ninebit.com.br)  soluções web/mobile, atuando como gerente de projetos, desenvolvimento e design ux/ui;
 
 ## DESCRIÇÃO DE ATUAÇÃO
 -	Experiência como docente Ministrado Treinamento de Aperfeiçoamento profissional para os cursos: Informática Básica, Web designer, Design Gráfico, Manutenção de Computadores, Excel Completo, Excel Avançado, Excel com ênfase em VBA, Dashboard em Excel, Gerenciamento de Projetos com MS Project;

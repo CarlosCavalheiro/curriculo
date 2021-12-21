@@ -5,7 +5,7 @@
 Lençóis Paulista - São Paulo | Idade: 40 anos
 
 ## Quem sou?
--	Atualmente trabalho como professor/instrutor de informártica básica e avançada, e também sou sócio proprietário de uma empresa de desenvolvimento de aplicações para internet;
+-	Atualmente trabalho como professor/instrutor de informática básica e avançada, e também sou sócio proprietário de uma empresa de desenvolvimento de aplicações para internet;
 -	Gostei muito de aprender e me considero ter facil comunicação e trabalho bem com situações de articulação entre stakeholders e que são desafiadores. Tenho facilidade no trabalho em equipe;
 -	Sou casado e tenho dois filhos (Júlia e Guilherme), amo estar presente com minha esposa e meus filhos;
 
@@ -19,10 +19,10 @@ Lençóis Paulista - São Paulo | Idade: 40 anos
 -	Sócio proprietário da empresa Ninebit (www.ninebit.com.br)  soluções web/mobile, atuando como gerente de projetos, desenvolvimento e design ux/ui;
 
 ## DESCRIÇÃO DE ATUAÇÃO
--	Experiência como docente Ministrado Treinamento de Aperfeiçoamento profissional para os cursos: Informática Básica, Web designer, Design Gráfico, Manutenção de Computadores, Excel Completo, Excel Avançado, Excel com ênfase em VBA, Dashboard em Excel, Gerenciamento de Projetos com MS Project;
--	Experiência como docente no curso Técnico Desenvolvimento para Internet (Full Stack);
+-	Experiência como docente Ministrado Treinamento de Aperfeiçoamento profissional para os cursos: Informática Básica, Web designer, Design Gráfico, Manutenção de Computadores, Excel Completo, Excel Avançado, Excel com ênfase em VBA, Dashboard em Excel, Gerenciamento de Projetos com MS Project atuação no curso Técnico Desenvolvimento para Internet (Full Stack);
+-	Conhecimentos e aplicação no desenvolvimento web e mobile, conhecimentos em: Html, Css, Javascript, Bootstrap, JAVA, C#.net, Xamarin.Forms, MySQL, NodeJs, Angular, versionamento com Git e SVN;
 - Administração de redes de computadores Windows Server (Administração de usuários, Active Director, Perfil, Acessos Web, IIS, etc...) e Linux (Distibuições como: Mandriva, RedHat, Debian, Slackware, configurando e administrando níveis de compartilhamento, NFS, Squid, WebMail, DNS, DHCP, Firewall, Samba, Wine, entre outros).
--	Conhecimentos e aplicação no desenvolvimento web e mobile, conhecimentos em: Html, Css, Javascript, Bootstrap, JAVA, C#.net, Xamarin.Forms, MySQL, NodeJs e Angular;
+
 
 ## PARTICIPAÇÃO EM PROJETOS
 - SDE – SISTEMA DE DIÁRIO ELETRÔNICO (SENAI LENÇÓIS PAULISTA) [(LINK)](https://github.com/carlosNineBit/sde_fic)
@@ -60,23 +60,15 @@ Lençóis Paulista - São Paulo | Idade: 40 anos
   - SENAC – Serviço Nacional do Comercio - Unidade de Santana - Concluído Ago/2003
 
 ## CURSOS/TREINAMENTOS
-- JAVA Fundations -Oracle Academy – Mai/2021
-
+- JAVA Fundations - Oracle Academy – Mai/2021
 - Formação AWS Education - AWS Education – Mar/2021
-
 - Google Cloud Computing Foundations: Cloud Computing Fundamentals - Google Cloud – Out/2021
-
 - Google Essentials - Google Cloud – Out/2021
-
 - Fundamentação da Prática Docente - UNIINDUSTRIA – Abr/2020
-
 - LGPD – Lei Geral de Proteção de Dados - UNIINDUSTRIA – Abr/2020
-
-- LGPD – Lei Geral de Proteção de Dados - UNIINDUSTRIA – Abr/2020
-
+- IGTI – Bootcamp Desenvolvedor FullStack - Novembro/2020
 - TIC'S - Tecnologias da Informação e Comunicação Aplicadas à Educação Profissional e Tecnológica -UNIINDUSTRIA – Mar/2020
-
-- Informática para Internet - Desenvolvimento Web  - UNIINDUSTRIA – Ago/2019
+- Informática para Internet - Desenvolvimento Web  - UNINDUSTRIA – Ago/2019
 
 ## HISTÓRICO PROFISSIONAL
 - SENAI – Unidade de Lençóis Paulista/SP

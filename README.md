@@ -29,6 +29,14 @@ Lençóis Paulista - São Paulo | Idade: 40 anos
   - Aplicação Web desenvolvida em: C#.net, HTML, CSS, JAVASCRIPT, FRAMEWORK BOOTSTRAP e MYSQL;
   - Função: Cadastro de Turmas, Alunos, Docentes, Frequência Escolas, Desempenho/Notas, relatórios em PDF;
 
+- FEO – FREQUENCIA ELETRÔNIA [(LINK)](https://github.com/carlosNineBit/feo)
+  - Aplicação API (web service) e Mobile, desenvolvida em C#.net, Xamarin Forms e MYSQL;
+  - Função: Cadastro de Alunos, Responsáveis e Apontamento de Frequência, em desenvolvimento;
+
+- NINEBIT SITE – Site institucional da Ninebit  [(LINK)](https://github.com/carlosNineBit/NineBitSite)
+  - Desenvolvida HTML, CSS, JAVAScript e Framework de estilização Bootstrap;
+  - Divulgar e apresentar a empresa NineBit e seus trabalhos na internet.
+
 - QForms – Aplicação de criação de formulário do tipo Checklist web e mobile, com funcionalidades offline e sincronização.
   - Aplicação Web e Mobile desenvolvida em: C#.net, HTML, CSS, JAVASCRIPT, BOOTSTRAT, MYSQL e XAMARIN.FORMS (Android e iOS);
   - Atuação no FrontEnd, UX/UI e Back End da aplicação Mobile e Gerenciamento Web;

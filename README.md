@@ -11,7 +11,7 @@ Lençóis Paulista - São Paulo | Idade: 40 anos
 
 ## Contato
 - whatsApp: +55 (14) 98834-0554
-- linkdean: https://linkedin.com/in/carlos-alexandre-cavalheiro-6b490227/
+- linkdean: www.linkedin.com/in/cavalheiro-ca/
 - github: https://github.com/carlosNineBit
 
 ## SÍNTESE DE QUALIFICAÇÕES

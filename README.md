@@ -6,7 +6,7 @@ Lençóis Paulista - São Paulo | Idade: 40 anos
 
 ## Quem sou?
 -	Atualmente trabalho como professor/instrutor de informática básica e avançada, e também sou sócio proprietário de uma empresa de desenvolvimento de aplicações para internet;
--	Gostei muito de aprender e me considero ter facil comunicação e trabalho bem com situações de articulação entre stakeholders e que são desafiadores. Tenho facilidade no trabalho em equipe;
+-	Gosto muito de aprender, considero ter facil comunicação e trabalho bem com situações de articulação entre stakeholders e que sejam desafiadoras, também considero ter facilidade em trabalhar em equipe;
 -	Sou casado e tenho dois filhos (Júlia e Guilherme), amo estar presente com minha esposa e meus filhos;
 
 ## Contato
@@ -68,6 +68,7 @@ Lençóis Paulista - São Paulo | Idade: 40 anos
   - SENAC – Serviço Nacional do Comercio - Unidade de Santana - Concluído Ago/2003
 
 ## CURSOS/TREINAMENTOS
+- AWS Cloud Foundations - AWS Academy – Fev/2022
 - JAVA Fundations - Oracle Academy – Mai/2021
 - Formação AWS Education - AWS Education – Mar/2021
 - Google Cloud Computing Foundations: Cloud Computing Fundamentals - Google Cloud – Out/2021

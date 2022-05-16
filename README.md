@@ -107,6 +107,11 @@ Período de 01/2015 – atual
 Cargo: Sócio Proprietário
 Atuação: Desenvolvedor Front End e Back End, Web e Mobile
 
+- Prefeitura Municipal de Lençóis Paulista – Lençóis Paulista/SP
+Período de 03/2008 – 03/2012
+Cargo: Técnico em Informática (Funcionário `Público)
+
+
 <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="carlos-alexandre-cavalheiro-6b490227" data-version="v1">
   Linkedin: 
   <a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/carlos-alexandre-cavalheiro-6b490227?trk=profile-badge">Carlos Alexandre Cavalheiro</a></div>

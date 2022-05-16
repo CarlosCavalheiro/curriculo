@@ -15,7 +15,7 @@ Lençóis Paulista - São Paulo | Idade: 40 anos
 - github: https://github.com/carlosNineBit
 
 ## SÍNTESE DE QUALIFICAÇÕES
--	Amplo conhecimento em informática, Administração de redes, Sistemas operacionais Windows/Linux, Pacote Microsoft Office, Softwares Gráficos, Programação e Desenvolvimento Web/Mobile (C#.net e Xamarin Forms);
+-	Amplo conhecimento em tecnologia da informação, conhecimentos de serviços Cloud (AWS, AZURE e GCP), Administração de redes on-primeses (Linux e Windows), Microsoft Office 365, Softwares Gráficos, Programação e Desenvolvimento Web/Mobile (C#.net e Xamarin Forms) e Gerenciamento de Projetos e Equipe;
 -	Sócio proprietário da empresa Ninebit (www.ninebit.com.br)  soluções web/mobile, atuando como gerente de projetos, desenvolvimento e design ux/ui;
 
 ## DESCRIÇÃO DE ATUAÇÃO
@@ -67,12 +67,29 @@ Lençóis Paulista - São Paulo | Idade: 40 anos
 - Técnico em Informática
   - SENAC – Serviço Nacional do Comercio - Unidade de Santana - Concluído Ago/2003
 
-## CURSOS/TREINAMENTOS
-- AWS Cloud Foundations - AWS Academy – Fev/2022
+## CERTIFICAÇÕES/CURSOS
+- Microsoft Certified: Azure AI Fundamentals (IA-900)
+  - Emitido em mai de 2022 · Sem data de expiração
+  - Link Credencial: https://www.credly.com/users/carlos-alexandre-cavalheiro/badges
+
+- AWS Certified Cloud Practitioner
+  - Emitido em mai de 2022 · Expira em mai de 2025
+  - Link Credencial: https://www.credly.com/users/carlos-alexandre-cavalheiro/badges
+ 
+- AWS Academy Graduate - AWS Academy Cloud Foundations
+  - Emitido em fev de 2022 · Sem data de expiração
+  - Link Credencial: https://www.credly.com/users/carlos-alexandre-cavalheiro/badges
+
+- Google Cloud Computing Foundations: Cloud Computing Fundamentals - Locales
+  - Emitido em jan de 2021 · Sem data de expiração
+  - Link Credencial: https://www.qwiklabs.com/public_profiles/7cdb25c4-f831-4a2f-bbd6-712da56fa5af
+
+- Google Cloud Essentials
+  - Emitido em jan de 2021 · Sem data de expiração
+  - Link Credencial: https://www.qwiklabs.com/public_profiles/7cdb25c4-f831-4a2f-bbd6-712da56fa5af
+
 - JAVA Fundations - Oracle Academy – Mai/2021
 - Formação AWS Education - AWS Education – Mar/2021
-- Google Cloud Computing Foundations: Cloud Computing Fundamentals - Google Cloud – Out/2021
-- Google Essentials - Google Cloud – Out/2021
 - Fundamentação da Prática Docente - UNIINDUSTRIA – Abr/2020
 - LGPD – Lei Geral de Proteção de Dados - UNIINDUSTRIA – Abr/2020
 - IGTI – Bootcamp Desenvolvedor FullStack - Novembro/2020

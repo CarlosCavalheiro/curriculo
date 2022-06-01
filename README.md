@@ -16,7 +16,7 @@ Lençóis Paulista - São Paulo | Idade: 40 anos
 
 ## SÍNTESE DE QUALIFICAÇÕES
 -	Amplo conhecimento em tecnologia da informação, conhecimentos de serviços Cloud (AWS, AZURE e GCP), Administração de redes on-primeses (Linux e Windows), Microsoft Office 365, Softwares Gráficos, Programação e Desenvolvimento Web/Mobile (C#.net e Xamarin Forms) e Gerenciamento de Projetos e Equipe;
--	Sócio proprietário da empresa Ninebit (www.ninebit.com.br)  soluções web/mobile, atuando como gerente de projetos, desenvolvimento e design ux/ui;
+-	Sócio proprietário da empresa Ninebit (www.ninebit.com.br)  soluções web/mobile, atuando como gerente de projetos, desenvolvimento e design UX/UI;
 
 ## DESCRIÇÃO DE ATUAÇÃO
 -	Experiência como docente Ministrado Treinamento de Aperfeiçoamento profissional para os cursos: Informática Básica, Web designer, Design Gráfico, Manutenção de Computadores, Excel Completo, Excel Avançado, Excel com ênfase em VBA, Dashboard em Excel, Gerenciamento de Projetos com MS Project atuação no curso Técnico Desenvolvimento para Internet (Full Stack);
@@ -69,7 +69,7 @@ Lençóis Paulista - São Paulo | Idade: 40 anos
 
 ## CERTIFICAÇÕES/CURSOS
 - Microsoft Certified: Azure AI Fundamentals (IA-900)
-  - Emitido em mai de 2022 · Sem data de expiração
+  - Emitido em mai de 2022
   - Link Credencial: https://www.credly.com/users/carlos-alexandre-cavalheiro/badges
 
 - AWS Certified Cloud Practitioner
@@ -77,15 +77,27 @@ Lençóis Paulista - São Paulo | Idade: 40 anos
   - Link Credencial: https://www.credly.com/users/carlos-alexandre-cavalheiro/badges
  
 - AWS Academy Graduate - AWS Academy Cloud Foundations
-  - Emitido em fev de 2022 · Sem data de expiração
+  - Emitido em fev de 2022
   - Link Credencial: https://www.credly.com/users/carlos-alexandre-cavalheiro/badges
 
-- Google Cloud Computing Foundations: Cloud Computing Fundamentals - Locales
-  - Emitido em jan de 2021 · Sem data de expiração
+- Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud
+  - Emitido em mai de 2022
+  - Link Credencial: https://www.cloudskillsboost.google/public_profiles/7d919f52-97e3-49c1-b104-a85db15e71e5/
+
+- Google Cloud Computing Foundations: Infrastructure in Google Cloud
+  - Emitido em mai de 2022
+  - Link Credencial: https://www.cloudskillsboost.google/public_profiles/7d919f52-97e3-49c1-b104-a85db15e71e5/
+
+- Google Cloud Computing Foundations: Networking and Security in Google Cloud
+  - Emitido em mai de 2022
+  - Link Credencial: https://www.cloudskillsboost.google/public_profiles/7d919f52-97e3-49c1-b104-a85db15e71e5/
+
+- Google Cloud Computing Foundations: Cloud Computing Fundamentals
+  - Emitido em jan de 2021
   - Link Credencial: https://www.qwiklabs.com/public_profiles/7cdb25c4-f831-4a2f-bbd6-712da56fa5af
 
 - Google Cloud Essentials
-  - Emitido em jan de 2021 · Sem data de expiração
+  - Emitido em jan de 2021
   - Link Credencial: https://www.qwiklabs.com/public_profiles/7cdb25c4-f831-4a2f-bbd6-712da56fa5af
 
 - JAVA Fundations - Oracle Academy – Mai/2021
@@ -93,7 +105,7 @@ Lençóis Paulista - São Paulo | Idade: 40 anos
 - Fundamentação da Prática Docente - UNIINDUSTRIA – Abr/2020
 - LGPD – Lei Geral de Proteção de Dados - UNIINDUSTRIA – Abr/2020
 - IGTI – Bootcamp Desenvolvedor FullStack - Novembro/2020
-- TIC'S - Tecnologias da Informação e Comunicação Aplicadas à Educação Profissional e Tecnológica -UNIINDUSTRIA – Mar/2020
+- TIC'S - Tecnologias da Informação e Comunicação Aplicadas à Educação Profissional e Tecnológica - UNIINDUSTRIA – Mar/2020
 - Informática para Internet - Desenvolvimento Web  - UNINDUSTRIA – Ago/2019
 
 ## HISTÓRICO PROFISSIONAL
@@ -109,7 +121,7 @@ Atuação: Desenvolvedor Front End e Back End, Web e Mobile
 
 - Prefeitura Municipal de Lençóis Paulista – Lençóis Paulista/SP
 Período de 03/2008 – 03/2012
-Cargo: Técnico em Informática (Funcionário `Público)
+Cargo: Técnico em Informática (Funcionário Público)
 
 
 <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="carlos-alexandre-cavalheiro-6b490227" data-version="v1">

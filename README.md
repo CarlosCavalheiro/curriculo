@@ -7,7 +7,7 @@ Lençóis Paulista - São Paulo | Idade: 40 anos
 ## Quem sou?
 -	Atualmente trabalho como professor/instrutor de informática básica e avançada, e também sou sócio proprietário de uma empresa de desenvolvimento de aplicações para internet;
 -	Gosto muito de aprender, considero ter facil comunicação e trabalho bem com situações de articulação entre stakeholders e que sejam desafiadoras, também considero ter facilidade em trabalhar em equipe;
--	Sou casado e tenho dois filhos Júlia e Guilherme, amo estar presente com minha esposa Roberta e meus filhos;
+-	Sou casado com a Roberta e temos dois filhos Júlia e Guilherme, amo estar presente com minha;
 
 ## Contato
 - whatsApp: +55 (14) 98834-0554

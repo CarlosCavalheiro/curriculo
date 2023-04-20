@@ -68,6 +68,14 @@ Lençóis Paulista - São Paulo | Idade: 40 anos
   - SENAC – Serviço Nacional do Comercio - Unidade de Santana - Concluído Ago/2003
 
 ## CERTIFICAÇÕES/CURSOS
+- Microsoft Certified: Azure Data Fundamentals (DP-900)
+  - Emitido em jul de 2022
+  - Link Credencial: https://www.credly.com/badges/73e737bf-e5af-45fc-8c5b-c5a1a68faf80
+ 
+ - CCNA: Introduction to Networks
+  - Emitido em out de 2022
+  - Link Credencial: https://www.credly.com/badges/7c1fcc5b-0755-4fd8-bd9b-15a883653aba
+  
 - Microsoft Certified: Azure AI Fundamentals (IA-900)
   - Emitido em mai de 2022
   - Link Credencial: https://www.credly.com/users/carlos-alexandre-cavalheiro/badges

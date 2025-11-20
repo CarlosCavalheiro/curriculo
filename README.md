@@ -2,7 +2,7 @@
 
 <p style="text-align:left;"><img src="./images/img_eu.jpg" style="zoom:60%;" /></p>
 
-Lençóis Paulista - São Paulo | Idade: 40 anos 
+Lençóis Paulista - São Paulo | Idade: 44 anos
 
 ## Quem sou?
 -	Atualmente trabalho como professor/instrutor de informática básica e avançada, e também sou sócio proprietário de uma empresa de desenvolvimento de aplicações para internet;
@@ -55,6 +55,10 @@ Lençóis Paulista - São Paulo | Idade: 40 anos
   -	Atuação no FrontEnd, UX/UI e Back End da aplicação Web e Mobile;
 
 ## FORMAÇÃO
+- Bacharel em Ciência de Dados - Univesp - Conclui em Jun/2028
+
+- Análise e Desenvolvimento de Sistemas - Faculdade Impacta - Conclui em Dez/2025
+
 - PÓS-GRADUAÇÃO - ENGENHARIA DE SOFTWARE PARA DISPOSITIVOS MÓVEIS
   - UNINTER – Concluído em Out/2021
 

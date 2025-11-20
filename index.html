@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículo - Carlos Alexandre Cavalheiro</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <img id="profile-img" src="" alt="Foto de Perfil">
+            <h1 id="nome"></h1>
+            <p id="localizacao"></p>
+            <p id="idade"></p>
+        </header>
+
+        <section id="contato">
+            <h2>Contato</h2>
+            <ul>
+                <li>WhatsApp: <span id="whatsapp"></span></li>
+                <li>LinkedIn: <a id="linkedin" href=""></a></li>
+                <li>GitHub: <a id="github" href=""></a></li>
+            </ul>
+        </section>
+
+        <section id="quem-sou">
+            <h2>Quem sou?</h2>
+        </section>
+
+        <section id="sintese-qualificacoes">
+            <h2>Síntese de Qualificações</h2>
+        </section>
+
+        <section id="descricao-atuacao">
+            <h2>Descrição de Atuação</h2>
+        </section>
+
+        <section id="projetos">
+            <h2>Projetos</h2>
+        </section>
+
+        <section id="formacao">
+            <h2>Formação</h2>
+        </section>
+
+        <section id="certificacoes">
+            <h2>Certificações</h2>
+        </section>
+
+        <section id="historico-profissional">
+            <h2>Histórico Profissional</h2>
+        </section>
+    </div>
+
+    <script>
+        fetch('curriculo.json')
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('profile-img').src = data.imagem_perfil;
+                document.getElementById('nome').textContent = data.nome;
+                document.getElementById('localizacao').textContent = data.localizacao;
+                document.getElementById('idade').textContent = data.idade + ' anos';
+
+                document.getElementById('whatsapp').textContent = data.contato.whatsapp;
+                document.getElementById('linkedin').href = 'https://' + data.contato.linkedin;
+                document.getElementById('linkedin').textContent = data.contato.linkedin;
+                document.getElementById('github').href = data.contato.github;
+                document.getElementById('github').textContent = data.contato.github;
+
+                const quemSouSection = document.getElementById('quem-sou');
+                data.quem_sou.forEach(item => {
+                    const p = document.createElement('p');
+                    p.textContent = item;
+                    quemSouSection.appendChild(p);
+                });
+
+                const sinteseQualificacoesSection = document.getElementById('sintese-qualificacoes');
+                const sinteseList = document.createElement('ul');
+                data.sintese_qualificacoes.forEach(item => {
+                    const li = document.createElement('li');
+                    li.textContent = item;
+                    sinteseList.appendChild(li);
+                });
+                sinteseQualificacoesSection.appendChild(sinteseList);
+
+                const descricaoAtuacaoSection = document.getElementById('descricao-atuacao');
+                const atuacaoList = document.createElement('ul');
+                data.descricao_atuacao.forEach(item => {
+                    const li = document.createElement('li');
+                    li.textContent = item;
+                    atuacaoList.appendChild(li);
+                });
+                descricaoAtuacaoSection.appendChild(atuacaoList);
+
+                const projetosSection = document.getElementById('projetos');
+                data.projetos.forEach(projeto => {
+                    const projetoDiv = document.createElement('div');
+                    projetoDiv.classList.add('projeto');
+                    const nome = document.createElement('h3');
+                    if(projeto.link) {
+                        const link = document.createElement('a');
+                        link.href = projeto.link;
+                        link.textContent = projeto.nome;
+                        nome.appendChild(link);
+                    } else {
+                        nome.textContent = projeto.nome;
+                    }
+                    const descricao = document.createElement('p');
+                    descricao.textContent = projeto.descricao;
+                    projetoDiv.appendChild(nome);
+                    projetoDiv.appendChild(descricao);
+                    projetosSection.appendChild(projetoDiv);
+                });
+
+                const formacaoSection = document.getElementById('formacao');
+                data.formacao.forEach(formacao => {
+                    const formacaoDiv = document.createElement('div');
+                    formacaoDiv.classList.add('formacao');
+                    const curso = document.createElement('h3');
+                    curso.textContent = formacao.curso;
+                    const instituicao = document.createElement('p');
+                    instituicao.textContent = formacao.instituicao;
+                    const status = document.createElement('p');
+                    status.textContent = formacao.status;
+                    formacaoDiv.appendChild(curso);
+                    formacaoDiv.appendChild(instituicao);
+                    formacaoDiv.appendChild(status);
+                    formacaoSection.appendChild(formacaoDiv);
+                });
+
+                const certificacoesSection = document.getElementById('certificacoes');
+                const certificacoesList = document.createElement('ul');
+                data.certificacoes.forEach(cert => {
+                    const li = document.createElement('li');
+                    if(cert.link){
+                        const link = document.createElement('a');
+                        link.href = cert.link;
+                        link.textContent = cert.nome;
+                        li.appendChild(link);
+                    } else {
+                        li.textContent = cert.nome;
+                    }
+
+                    if(cert.data){
+                        li.textContent += ` (${cert.data})`;
+                    }
+                    certificacoesList.appendChild(li);
+                });
+                certificacoesSection.appendChild(certificacoesList);
+
+
+                const historicoProfissionalSection = document.getElementById('historico-profissional');
+                data.historico_profissional.forEach(job => {
+                    const jobDiv = document.createElement('div');
+                    jobDiv.classList.add('job');
+                    const empresa = document.createElement('h3');
+                    empresa.textContent = job.empresa;
+                    const periodo = document.createElement('p');
+                    periodo.textContent = `Período: ${job.periodo}`;
+                    const cargo = document.createElement('p');
+                    cargo.textContent = `Cargo: ${job.cargo}`;
+                    const atuacao = document.createElement('p');
+                    atuacao.textContent = `Atuação: ${job.atuacao}`;
+                    jobDiv.appendChild(empresa);
+                    jobDiv.appendChild(periodo);
+                    jobDiv.appendChild(cargo);
+                    jobDiv.appendChild(atuacao);
+                    historicoProfissionalSection.appendChild(jobDiv);
+                });
+            });
+    </script>
+</body>
+</html>

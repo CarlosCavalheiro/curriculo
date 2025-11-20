@@ -1,0 +1,172 @@
+{
+  "nome": "Carlos Alexandre Cavalheiro",
+  "imagem_perfil": "./images/img_eu.jpg",
+  "localizacao": "Lençóis Paulista - São Paulo",
+  "idade": 40,
+  "quem_sou": [
+    "Atualmente trabalho como professor/instrutor de informática básica e avançada, e também sou sócio proprietário de uma empresa de desenvolvimento de aplicações para internet;",
+    "Gosto muito de aprender, considero ter facil comunicação e trabalho bem com situações de articulação entre stakeholders e que sejam desafiadoras, também considero ter facilidade em trabalhar em equipe;",
+    "Sou casado com a Roberta e temos dois filhos Júlia e Guilherme, amo estar presente com minha;"
+  ],
+  "contato": {
+    "whatsapp": "+55 (14) 98834-0554",
+    "linkedin": "www.linkedin.com/in/cavalheiro-ca/",
+    "github": "https://github.com/carlosNineBit"
+  },
+  "sintese_qualificacoes": [
+    "Amplo conhecimento em tecnologia da informação, conhecimentos de serviços Cloud (AWS, AZURE e GCP), Administração de redes on-primeses (Linux e Windows), Microsoft Office 365, Softwares Gráficos, Programação e Desenvolvimento Web/Mobile (C#.net e Xamarin Forms) e Gerenciamento de Projetos e Equipe;",
+    "Sócio proprietário da empresa Ninebit (www.ninebit.com.br)  soluções web/mobile, atuando como gerente de projetos, desenvolvimento e design UX/UI;"
+  ],
+  "descricao_atuacao": [
+    "Experiência como docente Ministrado Treinamento de Aperfeiçoamento profissional para os cursos: Informática Básica, Web designer, Design Gráfico, Manutenção de Computadores, Excel Completo, Excel Avançado, Excel com ênfase em VBA, Dashboard em Excel, Gerenciamento de Projetos com MS Project atuação no curso Técnico Desenvolvimento para Internet (Full Stack);",
+    "Conhecimentos e aplicação no desenvolvimento web e mobile, conhecimentos em: Html, Css, Javascript, Bootstrap, JAVA, C#.net, Xamarin.Forms, MySQL, NodeJs, Angular, versionamento com Git e SVN;",
+    "Administração de redes de computadores Windows Server (Administração de usuários, Active Director, Perfil, Acessos Web, IIS, etc...) e Linux (Distibuições como: Mandriva, RedHat, Debian, Slackware, configurando e administrando níveis de compartilhamento, NFS, Squid, WebMail, DNS, DHCP, Firewall, Samba, Wine, entre outros)."
+  ],
+  "projetos": [
+    {
+      "nome": "SDE – SISTEMA DE DIÁRIO ELETRÔNICO (SENAI LENÇÓIS PAULISTA)",
+      "link": "https://github.com/carlosNineBit/sde_fic",
+      "descricao": "Aplicação Web desenvolvida em: C#.net, HTML, CSS, JAVASCRIPT, FRAMEWORK BOOTSTRAP e MYSQL; Função: Cadastro de Turmas, Alunos, Docentes, Frequência Escolas, Desempenho/Notas, relatórios em PDF;"
+    },
+    {
+      "nome": "FEO – FREQUENCIA ELETRÔNIA",
+      "link": "https://github.com/carlosNineBit/feo",
+      "descricao": "Aplicação API (web service) e Mobile, desenvolvida em C#.net, Xamarin Forms e MYSQL; Função: Cadastro de Alunos, Responsáveis e Apontamento de Frequência, em desenvolvimento;"
+    },
+    {
+      "nome": "NINEBIT SITE – Site institucional da Ninebit",
+      "link": "https://github.com/carlosNineBit/NineBitSite",
+      "descricao": "Desenvolvida HTML, CSS, JAVAScript e Framework de estilização Bootstrap; Divulgar e apresentar a empresa NineBit e seus trabalhos na internet."
+    },
+    {
+      "nome": "QForms",
+      "descricao": "Aplicação de criação de formulário do tipo Checklist web e mobile, com funcionalidades offline e sincronização. Aplicação Web e Mobile desenvolvida em: C#.net, HTML, CSS, JAVASCRIPT, BOOTSTRAT, MYSQL e XAMARIN.FORMS (Android e iOS); Atuação no FrontEnd, UX/UI e Back End da aplicação Mobile e Gerenciamento Web; Startup DOQR;"
+    },
+    {
+      "nome": "UBOMBAS",
+      "descricao": "Aplicação de locação de Bombas de Concreto por oferta; Aplicação Web, Mobile e Site Institucional, desenvolvida em: C#.net, HTML, CSS, JAVASCRIPT, BOOTSTRAT, MYSQL, XAMARIN.FORMS (Android e iOS); Atuação no FrontEnd, UX/UI e Back End da aplicação Mobile e Site;"
+    },
+    {
+      "nome": "LOJA SILVA",
+      "descricao": "Aplicação de integração cliente loja física e e-commerce; Aplicação Mobile desenvolvida em: C#.net, HTML, CSS, JAVASCRIPT, BOOTSTRAT, MYSQL, XAMARIN.FORMS (Android e iOS); Atuação no FrontEnd, UX/UI da aplicação Mobile;"
+    },
+    {
+      "nome": "ACILPA - Associação Comercial e Industrial de Lençóis Paulista",
+      "descricao": "Aplicação destinada a divulgação e controle de campanhas junto ao comércio; Aplicação Web e Mobile, desenvolvida em: C#.net, HTML, CSS, JAVASCRIPT, BOOTSTRAT, MYSQL, XAMARIN.FORMS (Android e iOS); Atuação no FrontEnd, UX/UI e Back End da aplicação Web e Mobile;"
+    }
+  ],
+  "formacao": [
+    {
+      "curso": "PÓS-GRADUAÇÃO - ENGENHARIA DE SOFTWARE PARA DISPOSITIVOS MÓVEIS",
+      "instituicao": "UNINTER",
+      "status": "Concluído em Out/2021"
+    },
+    {
+      "curso": "Engenharia da Computação",
+      "instituicao": "UNIVESP – Universidade Virtual do Estado de São Paulo - Campus de Jau",
+      "status": "Incompleto Jan/2019"
+    },
+    {
+      "curso": "Licenciatura em Física",
+      "instituicao": "UNESP – Universidade do Estadual Paulista “Júlio de Mesquita Filho” - Campus de Bauru",
+      "status": "Concluído Dez/2011"
+    },
+    {
+      "curso": "Técnico em Informática",
+      "instituicao": "SENAC – Serviço Nacional do Comercio - Unidade de Santana",
+      "status": "Concluído Ago/2003"
+    }
+  ],
+  "certificacoes": [
+    {
+      "nome": "Microsoft Certified: Azure Data Fundamentals (DP-900)",
+      "data": "Emitido em jul de 2022",
+      "link": "https://www.credly.com/badges/73e737bf-e5af-45fc-8c5b-c5a1a68faf80"
+    },
+    {
+      "nome": "CCNA: Introduction to Networks",
+      "data": "Emitido em out de 2022",
+      "link": "https://www.credly.com/badges/7c1fcc5b-0755-4fd8-bd9b-15a883653aba"
+    },
+    {
+      "nome": "Microsoft Certified: Azure AI Fundamentals (IA-900)",
+      "data": "Emitido em mai de 2022",
+      "link": "https://www.credly.com/users/carlos-alexandre-cavalheiro/badges"
+    },
+    {
+      "nome": "AWS Certified Cloud Practitioner",
+      "data": "Emitido em mai de 2022 · Expira em mai de 2025",
+      "link": "https://www.credly.com/users/carlos-alexandre-cavalheiro/badges"
+    },
+    {
+      "nome": "AWS Academy Graduate - AWS Academy Cloud Foundations",
+      "data": "Emitido em fev de 2022",
+      "link": "https://www.credly.com/users/carlos-alexandre-cavalheiro/badges"
+    },
+    {
+      "nome": "Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud",
+      "data": "Emitido em mai de 2022",
+      "link": "https://www.cloudskillsboost.google/public_profiles/7d919f52-97e3-49c1-b104-a85db15e71e5/"
+    },
+    {
+      "nome": "Google Cloud Computing Foundations: Infrastructure in Google Cloud",
+      "data": "Emitido em mai de 2022",
+      "link": "https://www.cloudskillsboost.google/public_profiles/7d919f52-97e3-49c1-b104-a85db15e71e5/"
+    },
+    {
+      "nome": "Google Cloud Computing Foundations: Networking and Security in Google Cloud",
+      "data": "Emitido em mai de 2022",
+      "link": "https://www.cloudskillsboost.google/public_profiles/7d919f52-97e3-49c1-b104-a85db15e71e5/"
+    },
+    {
+      "nome": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+      "data": "Emitido em jan de 2021",
+      "link": "https://www.qwiklabs.com/public_profiles/7cdb25c4-f831-4a2f-bbd6-712da56fa5af"
+    },
+    {
+      "nome": "Google Cloud Essentials",
+      "data": "Emitido em jan de 2021",
+      "link": "https://www.qwiklabs.com/public_profiles/7cdb25c4-f831-4a2f-bbd6-712da56fa5af"
+    },
+    {
+      "nome": "JAVA Fundations - Oracle Academy – Mai/2021"
+    },
+    {
+      "nome": "Formação AWS Education - AWS Education – Mar/2021"
+    },
+    {
+      "nome": "Fundamentação da Prática Docente - UNIINDUSTRIA – Abr/2020"
+    },
+    {
+      "nome": "LGPD – Lei Geral de Proteção de Dados - UNIINDUSTRIA – Abr/2020"
+    },
+    {
+      "nome": "IGTI – Bootcamp Desenvolvedor FullStack - Novembro/2020"
+    },
+    {
+      "nome": "TIC'S - Tecnologias da Informação e Comunicação Aplicadas à Educação Profissional e Tecnológica - UNIINDUSTRIA – Mar/2020"
+    },
+    {
+      "nome": "Informática para Internet - Desenvolvimento Web  - UNINDUSTRIA – Ago/2019"
+    }
+  ],
+  "historico_profissional": [
+    {
+      "empresa": "SENAI – Unidade de Lençóis Paulista/SP",
+      "periodo": "06/2014 – atual",
+      "cargo": "Instrutor de Práticas de Ensino (TI) nível II",
+      "atuacao": "Cursos de Formação Inicial Continuada e Técnico Profissional"
+    },
+    {
+      "empresa": "NINEBIT – Lençóis Paulista/SP",
+      "periodo": "01/2015 – atual",
+      "cargo": "Sócio Proprietário",
+      "atuacao": "Desenvolvedor Front End e Back End, Web e Mobile"
+    },
+    {
+      "empresa": "Prefeitura Municipal de Lençóis Paulista – Lençóis Paulista/SP",
+      "periodo": "03/2008 – 03/2012",
+      "cargo": "Técnico em Informática (Funcionário Público)"
+    }
+  ]
+}

@@ -6,7 +6,7 @@ Este repositório contém os dados e a apresentação do meu currículo.
 
 Para uma melhor experiência, visualize meu currículo no formato de página da web:
 
-**[Clique aqui para ver o currículo](index.html)**
+**[Clique aqui para ver o currículo]([https://carloscavalheiro.github.io/curriculo/])**
 
 ## Sobre este projeto
 
